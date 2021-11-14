@@ -1,4 +1,6 @@
-[![Alireza's github stats](https://github-readme-stats.vercel.app/api?username=alirezagh73&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/alirezagh73)
+
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=alirezagh73&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/alirezagh73)
+
 
 
 
