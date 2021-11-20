@@ -1,8 +1,8 @@
-
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=alirezagh73&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/alirezagh73)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezagh73&show_icons=true&theme=onedark)
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezagh73&layout=compact&theme=radical)](https://github.com/alirezagh73)
 
 
 
